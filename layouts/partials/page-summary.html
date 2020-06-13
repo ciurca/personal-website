@@ -1,0 +1,31 @@
+<!-- <style>
+    li {
+        text-align: left;
+        display: block;
+        
+    }
+
+    #posts a{
+    text-decoration: none;
+    display: block;
+    }
+    #posts h2 {
+        color: #1eabf2;
+    }
+    #posts p {
+        color: black;
+    }
+</style> -->
+<li itemscope itemtype="http://schema.org/CreativeWork">
+    <a href="{{ .Permalink }}" itemprop="headline">
+        <h2>
+            {{ .Title }}
+        </h2>
+        {{ if (isset .Params "description") }}
+        <time class="post-time">{{ partial "post/meta" . }}</time>
+        {{ end }}
+        {{ if .Description }}
+        <p itemprop="about">{{ .Description }}</p>
+        {{ end }}
+    </a>
+</li>

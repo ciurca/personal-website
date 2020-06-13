@@ -1,0 +1,52 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+
+{{ define "main" }}
+<style>
+  #pLike {
+    max-width: 740px;
+    margin: auto;
+    font-size: 17px;
+    line-height: 32px;
+    color: black;
+    margin-top: 28px;
+    padding-top: 28px;
+    margin-bottom: 0;
+    position: relative;
+  }
+  #pLike:hover {
+    color: rgba(0, 0, 0, 0.6); 
+  }
+  #whatever {
+    color: blue;
+  }
+</style>
+<div id="hero" class="wrap">
+  <h1 id="changeh1"></h1>
+    <p id="descriptionp">raduciurca dot com<br></p>
+    <a href="https://twitter.com/{{.Site.Params.twitter}}" target="_blank" id="pLike">Follow me on Twitter</a>
+</div>
+<ul id="posts">
+
+ {{ range .Paginator.Pages.ByDate.Reverse }} {{ partial "page-summary" . }} {{ end }}
+  <section>{{ partial "pagination" .}}</section>
+</ul>
+
+<script>
+  var link = "{{ .Permalink }}".split('/')[3];
+  String.prototype.capitalize = function() {
+    return this.charAt(0).toUpperCase() + this.slice(1);
+  }
+  document.getElementById("changeh1").innerHTML = link.capitalize()
+  if (link == "blog") {
+    document.getElementById("descriptionp").innerHTML = 'My thoughts and ideas. Ocasionally some good stuff.';
+  } else if (link == "technica") {
+    document.getElementById("descriptionp").innerHTML = 'Tutorials about techincal stuff.';
+  }
+</script>
+
+{{ end }} 
+{{ define "footer" }} 
+  {{ partial "footer" . }} 
+{{ end }}
+

@@ -1,0 +1,28 @@
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <footer id="footer">
+    <nav>
+      <ul>
+        <li><span>Kube</span></li>
+        <li>
+          <a href="/blog/">Blog</a>
+        </li>
+          <li>
+          <a href="/docs/">Docs</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/{{.Site.Params.twitter}}"><i class="fa fa-twitter"></i> Twitter</a>
+        </li>
+      </ul>
+    </nav>
+    <p>&copy; Licence MIT.</p>
+  </footer>
+<script src="https://unpkg.com/zooming/build/zooming.min.js"></script>
+
+<script>
+    // Listen to images after DOM content is fully loaded
+    document.addEventListener('DOMContentLoaded', function () {
+    new Zooming({
+        // options...
+    }).listen('.img-zoomable')
+    })
+</script>

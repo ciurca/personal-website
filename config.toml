@@ -1,0 +1,28 @@
+baseURL = "https://localhost:1313"
+languageCode = "en-us"
+title = "Radu Ciurca"
+theme = "kube"
+description = "Radu Ciurca | Blog | Notes and more"
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "Radu Ciurca" # add your company name
+  github = "ciurca" # add your github profile name
+  twitter = "raduciurca" # add your twitter profile
+  email = "raduciurca@gmail.com"
+  
+
+[[menu.main]]
+    name = "Blog"
+    weight = -120
+    url = "/blog/"
+
+[[menu.main]]
+    name = "Technica"
+    weight = -110
+    url = "/technica/"
+
+[[menu.extra]]
+    name = "About"
+    weight = -100
+    url = "/about/"

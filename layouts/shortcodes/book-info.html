@@ -1,0 +1,36 @@
+<style>
+    .content1 {
+      display: flex;
+    }
+    
+    .content1 img {
+      margin-right: 10px;
+      width: 100%;
+      max-width: 100px;
+      height: auto;
+    }
+    
+    </style>
+    <script data-aff="amazon.com, www.amazon.com : tag = raduciurca-20 ! amazon.co.uk, www.amazon.co.uk : tag = raduciurcauk-21" src="https://cdn.jsdelivr.net/npm/affiliate@3.0/dist/affiliate.js" async id="aff-js"></script>
+    <h3><a name="BuyTheBook">Buy the book</a></h3>
+    <div class="content1">
+        <img src="" id='imageASIN'>
+        <div class="text">
+          <h3><strong>{{ .Get "title" }}</strong></h3>
+          <div>by <i>{{ .Get "author" }}</i></div>
+          <a href="{{ .Get `linkUS` }}" target="_blank" rel="noopener noreferrer">Amazon US</a>
+          <br>
+          <a href="" target="_blank" rel="noopener noreferrer" id="ukLink">Amazon UK</a>
+        </div>
+      </div>
+    <!-- <img src="" alt="" id='imageASIN' style="width: 100px;"> -->
+    <!-- Replace 3.0.0 with your intended version -->
+    <script>
+        var resourceUrl = '{{ .Get `linkUS` }}';
+        console.log(resourceUrl);
+        var amASIN = new RegExp("\/([A-Z0-9]{10})\/").exec(resourceUrl)[1];
+        var imgLink = "https://images-na.ssl-images-amazon.com/images/P/" + amASIN + ".jpg";
+        document.getElementById('imageASIN').setAttribute("src", imgLink);
+        var ukLink = "https://www.amazon.co.uk/dp/" + amASIN;
+        document.getElementById('ukLink').setAttribute("href", ukLink);
+    </script>
