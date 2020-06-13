@@ -1,4 +1,4 @@
-baseURL = "https://localhost:1313"
+baseURL = "https://radu.netlify.app"
 languageCode = "en-us"
 title = "Radu Ciurca"
 theme = "kube"
