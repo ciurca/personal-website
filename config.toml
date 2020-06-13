@@ -23,6 +23,6 @@ Paginate = 4
     url = "/technica/"
 
 [[menu.extra]]
-    name = "About"
+    name = "Home"
     weight = -100
-    url = "/about/"
+    url = "/"

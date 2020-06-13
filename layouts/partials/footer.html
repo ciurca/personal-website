@@ -2,19 +2,21 @@
   <footer id="footer">
     <nav>
       <ul>
-        <li><span>Kube</span></li>
+        <li>
+          <a href="/">Home</a>
+        </li>
         <li>
           <a href="/blog/">Blog</a>
         </li>
           <li>
-          <a href="/docs/">Docs</a>
+          <a href="/technica/">Technica</a>
         </li>
         <li>
-          <a href="https://twitter.com/{{.Site.Params.twitter}}"><i class="fa fa-twitter"></i> Twitter</a>
+          <a href="https://twitter.com/{{.Site.Params.twitter}}" target="_blank"><i class="fa fa-twitter"></i> Twitter</a>
         </li>
       </ul>
     </nav>
-    <p>&copy; Licence MIT.</p>
+    <p id="copyrightYear">Radu Ciurca &copy;</p>
   </footer>
 <script src="https://unpkg.com/zooming/build/zooming.min.js"></script>
 
@@ -25,4 +27,6 @@
         // options...
     }).listen('.img-zoomable')
     })
+    var yearDate = new Date();
+    document.getElementById("copyrightYear").innerHTML = `Radu Ciurca &copy; ${yearDate.getFullYear()}`
 </script>
