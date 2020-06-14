@@ -1,5 +1,5 @@
 ---
-title: "Are you underestimating the amount of stupidity around you?"
+title: "You're underestimating the amount of stupidity around you"
 date: 2020-04-10
 description: "You encounter more stupid people every day than you think, you may just not realize it. I'm going to help you find them."
 tags: ['book-notes']
