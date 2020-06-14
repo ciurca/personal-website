@@ -1,11 +1,36 @@
-<div class="show-sm">
+<style>
+  .nav{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+    background-color: white;
+}
+.nav li{
+    display:inline;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+    text-decoration: none;
+    color: black;
+}
+</style>
+<!-- <div class="show-sm">
     <div id="nav-toggle-box">
       <div id="nav-toggle-brand">
-        <a href="/" class="navHomeLinks">Home</a>
       </div><a data-component="toggleme" data-target="#top" href="#" id="nav-toggle"><i class="kube-menu"></i></a>
     </div>
-  </div>
-  <div class="hide-sm" id="top">
+  </div> -->
+  <ul class="nav" data-component="sticky">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+    <li><a href="{{ .URL }}" {{if  $currentPage.IsMenuCurrent "main" . }} style="text-decoration: underline; text-decoration-style: wavy; text-decoration-color: #ff3366;"{{end}}>{{ .Name }}</a></li>
+ {{end}}
+  </ul>
+  <!-- <div class="hide-sm" id="top">
     <div id="top-brand">
       <a href="/" title="home" class="navHomeLinks">Home</a>
     </div>
@@ -28,9 +53,9 @@
         {{ end }}  
       </ul>
     </nav>
-  </div>
+  </div> -->
 
-  <script>
+  <!-- <script>
     console.log("{{ .Permalink }}".split('/'))
     var navLink = "{{ .Permalink }}".split('/')[3];
     String.prototype.capitalize = function() {
@@ -39,7 +64,7 @@
     console.log(navLink)
     function goBack() {
       window.history.back()
-    }
+    }  
     if (navLink != "") {
      var goB = "Go back";
      document.getElementsByClassName("navHomeLinks").innerHTML = goB;
@@ -50,4 +75,4 @@
         elementArray[i].setAttribute("onclick", "goBack()")
       }
     }
-  </script>
+  </script> -->

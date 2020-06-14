@@ -2,15 +2,8 @@
 title: "Quotes"
 date: 2020-03-10
 description: "My favorite quotes. I update this list constantly."
-dropCap: true
-displayInMenu: true
-displayInList: true
 draft: false
-resources:
-- name: featuredImage
-  src: "bb1.png"
-  params:
-    description: "Quotes"
+images: ['/img/quotes/quotes.png']
 ---
 This is a list of quotes (and some notes) that I'm constantly updating, taken from different things that I’ve read, listened or watched. I believe that a quote gives you an insight into **how and what that particular person thinks**.
 

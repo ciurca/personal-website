@@ -22,7 +22,12 @@ Paginate = 4
     weight = -110
     url = "/technica/"
 
-[[menu.extra]]
-    name = "Home"
-    weight = -100
+[[menu.main]]
+    name = "About"
+    weight = -130
     url = "/"
+
+[[menu.main]]
+    name = "Twitter"
+    weight = -100
+    url= "https://twitter.com/raduciurca"
