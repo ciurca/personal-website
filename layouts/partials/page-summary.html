@@ -1,25 +1,10 @@
-<!-- <style>
-    li {
-        text-align: left;
-        display: block;
-        
-    }
-
-    #posts a{
-    text-decoration: none;
-    display: block;
-    }
-    #posts h2 {
-        color: #1eabf2;
-    }
-    #posts p {
-        color: black;
-    }
-</style> -->
 <li itemscope itemtype="http://schema.org/CreativeWork">
     <a href="{{ .Permalink }}" itemprop="headline">
         <h2>
             {{ .Title }}
+			{{ if (isset .Params "bookrating") }}
+			<span style="color: black">- {{ .Params.bookrating }} </span>
+			{{ end }}
         </h2>
         {{ if (isset .Params "description") }}
         <time class="post-time">{{ partial "post/meta" . }}</time>

@@ -16,13 +16,17 @@
     <div class="content1">
         <img src="" id='imageASIN'>
         <div class="text">
-          <h3><strong>{{ .Get "title" }}</strong></h3>
-          <div>by <i>{{ .Get "author" }}</i></div>
+          <h3 style="margin-bottom: 0px"><strong>{{ .Get "title" }}</strong></h3>
+		  {{ if (isset .Params "bookrating1") }} 
+		  <span>My rating: {{ .Get "bookrating1" }}</span>
+		  {{ end }}
+		  <div>by <i>{{ .Get "author" }}</i></div>
           <a href="{{ .Get `linkUS` }}" target="_blank" rel="noopener noreferrer">Amazon US</a>
           <br>
           <a href="" target="_blank" rel="noopener noreferrer" id="ukLink">Amazon UK</a>
         </div>
       </div>
+	  <br>
     <!-- <img src="" alt="" id='imageASIN' style="width: 100px;"> -->
     <!-- Replace 3.0.0 with your intended version -->
     <script>
