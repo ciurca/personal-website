@@ -3,7 +3,7 @@ title: "Are you underestimating the amount of stupidity around you?"
 date: 2020-04-10
 description: "You encounter more stupid people every day than you think, you may just not realize it. I'm going to help you find them."
 tags: ['book-notes']
-images: "/img/stupidity/stupiditypost.png"
+images: ["/img/stupidity/stupiditypost.png"]
 draft: false
 ---
 First, we need to define what a stupid person is. In his short book ['The Basic Laws of Human Stupidity'](#BuyTheBook), Carlo Cipolla describes a stupid person as follows:
