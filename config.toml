@@ -5,7 +5,7 @@ theme = "kube"
 description = "Radu Ciurca | Blog | Notes and more"
 Paginate = 4
 disqusShortname = "raduciurca"
-googleAnalytics = "UA-169354041-1
+googleAnalytics = "UA-169354041-1"
 [Params]
   RSSLink = "/index.xml"
   author = "Radu Ciurca" # add your company name
