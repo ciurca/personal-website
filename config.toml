@@ -10,7 +10,8 @@ Paginate = 4
   github = "ciurca" # add your github profile name
   twitter = "raduciurca" # add your twitter profile
   email = "raduciurca@gmail.com"
-  
+  disqusShortname = "raduciurca"
+  googleAnalytics = "UA-169354041-1"
 
 [[menu.main]]
     name = "Blog"
