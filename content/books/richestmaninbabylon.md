@@ -63,7 +63,7 @@ You may be young, but it certainly isn't an excuse to be stupid, since wisdom of
 
 > Then be not swayed by foolish sentiments of obligation to trust thy treasure to any person. If thou wouldst help thy family or thy friends, find other ways than risking the loss of thy treasure. (pg ~110)
 
-### Better save than sorry
+### Better safe than sorry
 
 > Better a Little Caution than a Great Regret (~pg 111)
 
