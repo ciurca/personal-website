@@ -4,17 +4,19 @@
     {{ with .Params.author }}
       by <span itemprop="author">{{ index . }}</span>
     {{ else }}
-      by <span itemprop="author">{{ .Site.Params.author }}</span>
+	by <span itemprop="author">@<a href="https://twitter.com/raduciurca" target="_blank">raduciurca</a><span>
     {{ end }}
   {{ end }}
+ on 
   <time datetime="{{ dateFormat "2006-01-02T15:04:05-07:00" (default .Date (.PublishDate)) }}">
     {{ dateFormat "2 Jan, 2006" (default .Date (.PublishDate)) }}
   </time>
   {{ with .Params.categories }}
-    in <span itemprop="articleSection">{{ delimit (apply (apply (sort .) "partial" "post/category-link" ".") "chomp" ".") ", " " and " }}</span>
+    in 
+<span itemprop="articleSection">{{ delimit (apply (apply (sort .) "partial" "post/category-link" ".") "chomp" ".") ", " " and " }}</span>
   {{ end }}
   {{ with .Params.tags }}
-    and tagged {{ delimit (apply (apply (sort .) "partial" "post/tag-link" ".") "chomp" ".") ", " " and " }}
+    and tagged <i class="fas fa-tag"></i>{{ delimit (apply (apply (sort .) "partial" "post/tag-link" ".") "chomp" ".") ", " " and " }}
   {{ end }}
-  using <span itemprop="wordCount">{{ .WordCount }}</span> words.
+  .
 </p>

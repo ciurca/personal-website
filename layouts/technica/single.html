@@ -13,8 +13,11 @@
 <time class="post-time">{{ partial "post/meta" . }}</time>
 </div>
 <div id="post-box">
-<div id="post" itemprop="articleBody">
-    
+<div id="post" itemprop="articleBody"> 
+				{{ if .Params.images }}
+		<img src="{{ index .Params.images 0 }}"  class="img-zoomable">
+		{{ end }}
+
     {{.Content | safeHTML}}
 
 </div>
