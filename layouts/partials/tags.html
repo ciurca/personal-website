@@ -1,0 +1,4 @@
+<br>
+{{ range .Params.tags}}
+	<span class="label" style="padding-top:2px"><a href="/tags/{{ . | urlize}}"><i class="fas fa-tag"></i>{{ . }} </a></span>
+{{ end }}

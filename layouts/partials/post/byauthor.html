@@ -15,8 +15,6 @@
     in 
 <span itemprop="articleSection">{{ delimit (apply (apply (sort .) "partial" "post/category-link" ".") "chomp" ".") ", " " and " }}</span>
   {{ end }}
-  {{ with .Params.tags }}
-    and tagged <i class="fas fa-tag"></i>{{ delimit (apply (apply (sort .) "partial" "post/tag-link" ".") "chomp" ".") ", " " and " }}
-  {{ end }}
   .
+  <br>
 </p>
