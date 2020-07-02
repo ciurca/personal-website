@@ -35,3 +35,6 @@ googleAnalytics = "UA-169354041-1"
 #    name = "Twitter"
 #    weight = -100
 #    url= "https://twitter.com/raduciurca"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

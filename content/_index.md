@@ -4,4 +4,9 @@ title: "Radu Ciurca"
 draft: false
 tags: ['about']
 images: ['/img/index/myimage.png']
+outputs:
+- html
+- rss
+- json
 ---
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Radu Ciurca</title>
+    <link>https://raduciurca.com/books/</link>
+    <description>Recent content in Books on Radu Ciurca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raduciurca.com/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Richest Man in Babylon</title>
+      <link>https://raduciurca.com/books/richestmaninbabylon/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raduciurca.com/books/richestmaninbabylon/</guid>
+      <description>.content1 { display: flex; } .content1 img { margin-right: 10px; width: 100%; max-width: 100px; height: auto; }   Buy the book The Richest Man in Babylon My rating: 5/5 by George S Clason Amazon US Amazon UK    var resourceUrl = &#39;https:\/\/www.amazon.com\/Richest-Man-Babylon-Magic-Story\/dp\/1939438632\/&#39;; console.log(resourceUrl); var amASIN = new RegExp(&#34;\/([A-Z0-9]{10})\/&#34;).exec(resourceUrl)[1]; var imgLink = &#34;https://images-na.ssl-images-amazon.com/images/P/&#34; + amASIN + &#34;.jpg&#34;; document.getElementById(&#39;imageASIN&#39;).setAttribute(&#34;src&#34;, imgLink); var ukLink = &#34;https://www.amazon.co.uk/dp/&#34; + amASIN; document.getElementById(&#39;ukLink&#39;).setAttribute(&#34;href&#34;, ukLink);  Backstory My brother initially got this book as a Christmas present for me a couple of years back, but I didn&amp;rsquo;t got around reading it for a while.</description>
+    </item>
+    
+  </channel>
+</rss>

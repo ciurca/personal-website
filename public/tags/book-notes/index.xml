@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book Notes on Radu Ciurca</title>
+    <link>https://raduciurca.com/tags/book-notes/</link>
+    <description>Recent content in Book Notes on Radu Ciurca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raduciurca.com/tags/book-notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>You&#39;re underestimating the amount of stupidity around you</title>
+      <link>https://raduciurca.com/blog/stupidity/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raduciurca.com/blog/stupidity/</guid>
+      <description>First, we need to define what a stupid person is. In his short book &amp;lsquo;The Basic Laws of Human Stupidity&amp;rsquo;, Carlo Cipolla describes a stupid person as follows:
+ A stupid person is a person who causes losses to another person or to a group of persons while himself deriving no gain and even possibly incurring losses.
+ You might think, &amp;lsquo;wait a second that doesn&amp;rsquo;t make any sense, why would anyone cause a loss, while they gain absolutely nothing in return&amp;rsquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
