@@ -5,6 +5,7 @@ description: "Thousands of years old teachings about money, still relevant today
 draft: false
 book-notes: true
 bookrating: "5/5"
+tags: ['book-notes']
 images: ["https://images-na.ssl-images-amazon.com/images/I/51V0RSL8A5L._SX331_BO1,204,203,200_.jpg"]
 ---
 
