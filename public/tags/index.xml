@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Radu Ciurca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://raduciurca.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,9 +23,18 @@
     <item>
       <title>Book Notes</title>
       <link>https://raduciurca.com/tags/book-notes/</link>
-      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://raduciurca.com/tags/book-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>https://raduciurca.com/tags/productivity/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raduciurca.com/tags/productivity/</guid>
       <description></description>
     </item>
     

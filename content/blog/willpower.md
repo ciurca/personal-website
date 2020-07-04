@@ -3,7 +3,7 @@ title: "Willpower is for suckers"
 date: 2020-07-04
 description: "Making it easy for yourself to get things done."
 tags: ['productivity']
-images: ["/img/willpower.jpg"]
+images: ["/img/willpower/willpower.jpeg"]
 draft: false
 ---
 {{< rawhtml >}} <small style="text-align:center;"> <a href="http://www.dumpaday.com/" target="_blank">Image source</a></small> {{< /rawhtml >}}
