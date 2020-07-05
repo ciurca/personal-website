@@ -1,0 +1,57 @@
+<style>
+.share-btn {
+  display: inline-block;
+  color: #ffffff;
+  border: none;
+  padding: 0.1em 0.6em;
+  outline: none;
+  text-align: center;
+  font-size: 0.9em;
+  margin: 0 0.2em;
+  text-decoration: none;
+}
+
+.share-btn:focus,
+.share-btn:hover {
+  text-decoration: none;
+  color: white;
+  opacity: 0.8;
+}
+
+.share-btn:active {
+  color: #e2e2e2;
+}
+
+.share-btn.twitter { background: #55acee; }
+.share-btn.google-plus { background: #dd4b39; }
+.share-btn.facebook { background: #3B5998; }
+.share-btn.stumbleupon { background: #EB4823; }
+.share-btn.reddit { background: #ff5700; }
+.share-btn.hackernews { background: #ff6600; }
+.share-btn.linkedin    { background: #4875B4; }
+.share-btn.email { background: #444444; }
+</style>
+<a target="_blank" href="https://twitter.com/share?url={{ .Permalink }}&text={{ .Title }}&via=raduciurca" class="share-btn twitter">
+    Twitter
+</a>
+
+
+<!-- Reddit (url, title) -->
+<a target="_blank" href="https://reddit.com/submit?url={{ .Permalink }}&title={{ .Title }}" class="share-btn reddit">
+    Reddit
+</a>
+
+<!-- Hacker News (url, title) -->
+<a target="_blank" href="https://news.ycombinator.com/submitlink?u={{ .Permalink }}&t={{ .Title }}" class="share-btn hackernews">
+    Hacker News
+</a>
+
+<!-- LinkedIn (url, title, summary, source url) -->
+<a target="_blank" href="https://www.linkedin.com/shareArticle?url={{ .Permalink }}&title={{ .Title }}&summary={{ .Description }}&source=raduciurca.com" class="share-btn linkedin">
+    LinkedIn
+</a>
+
+<!-- Email (subject, body) -->
+<a target="_blank" href="mailto:?subject={{ .Title }} - article by Radu Ciurca&body={{ .Permalink }}" class="share-btn email">
+    Email
+</a>
