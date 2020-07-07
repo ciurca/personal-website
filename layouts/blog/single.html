@@ -25,9 +25,8 @@
     <div class="">
         {{ partial "post/byauthor" . }}
         {{ partial "post/related-content" . }}
- {{ partial "sharebuttons.html" . }}
+		{{ partial "sharebuttons.html" . }}
     </div>
-    
     {{ if .Site.DisqusShortname }}
     <article>
         {{ template "_internal/disqus.html" . }}
