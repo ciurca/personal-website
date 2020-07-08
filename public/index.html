@@ -122,7 +122,7 @@ ga('send', 'pageview');
     <li><a href="/books/" >Books</a></li>
  
   </ul>
-  <div style="max-width: 680px;margin: auto;padding-top:10px;">
+  <div style="max-width: 680px;margin: auto;padding-top:10px;padding-right:10px;padding-left:10px">
 		<div class="sidebar-section">
 			<input id="search-query" placeholder="Search" />
 		</div>
@@ -149,17 +149,12 @@ ga('send', 'pageview');
     box-shadow: none;
     border-radius: 50%;
   }
-  .w-richtext {
-    font-size: x-large;
-  }
   @media only screen and (max-width: 600px) {
     .w-richtext {
-      font-size: 1.2em;
       padding-left: 10px;
       padding-right: 10px;
     }
     h1 {
-      font-size: 2.2em;
       padding-left: 10px;
       padding-right: 10px;
     }
@@ -167,8 +162,6 @@ ga('send', 'pageview');
       padding-right: 10px;
     }
 
-	.modalabout {
-	}
   }
 
 </style>
@@ -176,12 +169,12 @@ ga('send', 'pageview');
   <div class="aboutdiv">
       <div class="aboutdivcont">
         <h1>Hello there!</h1>
-        <img src="/img/index/myimage.png" alt="Radu Ciurca Headshot" class="image">
-        <div class="w-richtext">
-          <p>I'm Radu and I do various things on the internet. As you've guessed, this is my website.</p>
-          <p>I write about different things on my <a href="/blog">blog</a> and more tehnical stuff on <a href="/technica">Technica</a>.</p>
-		  <p>Also, you can check out my <a href="/books">book notes</a> section.</p>
-          <p>Since this website is still in its infancy, I take every suggestion kindly, so please DM me on <a href="https://twitter.com/raduciurca" target="_blank">Twitter</a> if you've got any ideas.</p>
+		<img  src="/img/index/myimage.png"  alt="Radu Ciurca Headshot" class="image">
+		<div class="w-richtext"> 
+          <p class="large">I'm Radu and I do various things on the internet. As you've guessed, this is my website.</p>
+          <p class="large">I write about different things on my <a href="/blog">blog</a> and more tehnical stuff on <a href="/technica">Technica</a>.</p>
+		  <p class="large">Also, you can check out my <a href="/books">book notes</a> section.</p>
+          <p class="large">Since this website is still in its infancy, I take every suggestion kindly, so please DM me on <a href="https://twitter.com/raduciurca" target="_blank">Twitter</a> if you've got any ideas.</p>
 		<button data-component="modal" data-target="#my-modal" class="modalabout">Note</button>
 		</div>
 		<div id="my-modal" class="modal-box hide">
