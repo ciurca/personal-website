@@ -1,5 +1,6 @@
   <footer id="footer" style="display: block; text-align:center">
-    <p id="copyrightYear">Radu Ciurca &copy;</p>
+    <p id="copyrightYear">Copyright &copy; {{ dateFormat "2006" now }} {{ .Site.Params.author }}.
+</p>
   </footer>
 <script src="https://unpkg.com/zooming/build/zooming.min.js"></script>
 
@@ -10,6 +11,4 @@
         // options...
     }).listen('.img-zoomable')
     })
-    var yearDate = new Date();
-    document.getElementById("copyrightYear").innerHTML = `Radu Ciurca &copy; ${yearDate.getFullYear()}`
 </script>
