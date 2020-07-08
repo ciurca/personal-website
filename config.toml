@@ -18,7 +18,6 @@ pluralizeListTitles = false
     name = "Blog"
     weight = -120
     url = "/blog/"
-
 [[menu.main]]
     name = "Technica"
     weight = -110

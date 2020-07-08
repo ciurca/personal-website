@@ -18,13 +18,7 @@
     color: black;
 }
 </style>
-<!-- <div class="show-sm">
-    <div id="nav-toggle-box">
-      <div id="nav-toggle-brand">
-      </div><a data-component="toggleme" data-target="#top" href="#" id="nav-toggle"><i class="kube-menu"></i></a>
-    </div>
-  </div> -->
-  <ul class="nav">
+<ul class="nav">
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
     <li><a href="{{ .URL }}" {{if  $currentPage.IsMenuCurrent "main" . }} style="text-decoration: underline; text-decoration-style: wavy; text-decoration-color: #ff3366;"{{end}}>{{ .Name }}</a></li>

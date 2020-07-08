@@ -22,8 +22,10 @@
   }
 </style>
 <div id="hero" class="wrap">
-  <h1 id="changeh1">Blog</h1>
-    <p id="descriptionp">raduciurca dot com<br></p>
+		<h1>{{ .Title }}</h1>
+		{{ if eq .Section "blog" }}<p>My thoughts and ideas. Ocasionally some good stuff.</p>{{ end }}
+		{{ if eq .Section "technica" }}<p>Tutorials about techincal stuff.</p>{{ end }}
+		{{ if eq .Section "books" }}<p>My book notes.</p>{{ end }}
     <a href="https://twitter.com/{{.Site.Params.twitter}}" target="_blank" id="pLike">Follow me on Twitter</a>
 </div>
 <ul id="posts">
@@ -33,18 +35,6 @@
 </ul>
 
 <script>
-  var link = "{{ .Permalink }}".split('/')[3];
-  String.prototype.capitalize = function() {
-    return this.charAt(0).toUpperCase() + this.slice(1);
-  }
-  document.getElementById("changeh1").innerHTML = link.capitalize()
-  if (link == "blog") {
-    document.getElementById("descriptionp").innerHTML = 'My thoughts and ideas. Ocasionally some good stuff.';
-  } else if (link == "technica") {
-    document.getElementById("descriptionp").innerHTML = 'Tutorials about techincal stuff.';
-  } else if (link == "books"){
-		  document.getElementById("descriptionp").innerHTML = 'My book notes.'
-  }
 </script>
 
 {{ end }} 
