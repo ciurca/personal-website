@@ -6,7 +6,7 @@ tags: ['productivity']
 images: ["/img/willpower/willpower.jpeg"]
 draft: false
 ---
-{{< rawhtml >}} <small style="text-align:center;"> <a href="http://www.dumpaday.com/" target="_blank">Image source</a></small> {{< /rawhtml >}}
+{{< rawhtml >}}<br> <small> <a href="http://www.dumpaday.com/" target="_blank">Image source</a></small> {{< /rawhtml >}}
 
 John set himself a goal of working out daily on a Sunday. He started going to the gym on Monday. This was 3 years ago. He has been going to the gym ever since. He hasn't had a problem with motivation whatsoever. He hasn't missed a day. You know why? Because he's got **willpower**.
 
