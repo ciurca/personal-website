@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title> Ubuntu | Radu Ciurca</title>
+  <title> Ubuntu /  Radu Ciurca</title>
 
   
   
@@ -104,8 +104,7 @@ ga('send', 'pageview');
     color: black;
 }
 </style>
-
-  <ul class="nav">
+<ul class="nav">
     
     
     <li><a href="/" >About</a></li>
@@ -150,8 +149,10 @@ ga('send', 'pageview');
   }
 </style>
 <div id="hero" class="wrap">
-  <h1 id="changeh1">Blog</h1>
-    <p id="descriptionp">raduciurca dot com<br></p>
+		<h1>Ubuntu</h1>
+		
+		
+		
     <a href="https://twitter.com/raduciurca" target="_blank" id="pLike">Follow me on Twitter</a>
 </div>
 <ul id="posts">
@@ -193,24 +194,13 @@ ga('send', 'pageview');
 </ul>
 
 <script>
-  var link = "https:\/\/raduciurca.com\/tags\/ubuntu\/".split('/')[3];
-  String.prototype.capitalize = function() {
-    return this.charAt(0).toUpperCase() + this.slice(1);
-  }
-  document.getElementById("changeh1").innerHTML = link.capitalize()
-  if (link == "blog") {
-    document.getElementById("descriptionp").innerHTML = 'My thoughts and ideas. Ocasionally some good stuff.';
-  } else if (link == "technica") {
-    document.getElementById("descriptionp").innerHTML = 'Tutorials about techincal stuff.';
-  } else if (link == "books"){
-		  document.getElementById("descriptionp").innerHTML = 'My book notes.'
-  }
 </script>
 
 </main>
   <footer> 
     <footer id="footer" style="display: block; text-align:center">
-    <p id="copyrightYear">Radu Ciurca &copy;</p>
+    <p id="copyrightYear">Copyright &copy; 2020 Radu Ciurca.
+</p>
   </footer>
 <script src="https://unpkg.com/zooming/build/zooming.min.js"></script>
 
@@ -221,8 +211,6 @@ ga('send', 'pageview');
         
     }).listen('.img-zoomable')
     })
-    var yearDate = new Date();
-    document.getElementById("copyrightYear").innerHTML = `Radu Ciurca &copy; ${yearDate.getFullYear()}`
 </script>
  
 </footer>
