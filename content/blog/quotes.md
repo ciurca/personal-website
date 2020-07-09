@@ -76,7 +76,7 @@ Horace:
 
 >"Sapere aude." (Dare to know/Dare to think for yourself!)
 
-Dave Berry:
+Dave Barry:
 
 > Meetings are an addictive, highly self-indulgent activity that corporations and other large organizations habitually engage in only because they cannot actually masturbate.
 
