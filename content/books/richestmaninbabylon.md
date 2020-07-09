@@ -80,7 +80,7 @@ A lot more opportunities are found your way, but you're probably taking a blind 
 
 ## Wrapping up
 
-Those are most of the quotes I've really enjoyed, and I hope my comments did them well. If you want to read this book, you can buy it [here](#BuyTheBook). (this is a referral link, I get a bit of commsision through each sale)
+Those are most of the quotes I've really enjoyed, and I hope my comments did them well. If you want to read this book, you can buy it [here](#BuyTheBook). (this is a referral link, I get a bit of commission through each sale)
 
 I'll leave you with another quote that I thought would give this post a nice ending.
 
