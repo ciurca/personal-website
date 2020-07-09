@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: raduciurca.com
+Token: 8bbd6d6b1d99081be98a8b0b8e5391a348ff3064dae5e24c9ed9b3cca16e9476
