@@ -76,4 +76,8 @@ Horace:
 
 >"Sapere aude." (Dare to know/Dare to think for yourself!)
 
+Dave Berry:
+
+> Meetings are an addictive, highly self-indulgent activity that corporations and other large organizations habitually engage in only because they cannot actually masturbate.
+
 The list will be continued once I'll find more quotes that are worthy. Until then, you can check out my Twitter {{< target-blank "@raduciurca" "https://twitter.com/raduciurca" >}}, for more thoughts and ideas. We will be **going further**.
