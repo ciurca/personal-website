@@ -27,7 +27,7 @@
 
     
     {{ if .Site.DisqusShortname }}
-    <article>
+    <article class="darkmode-ignore" style="display:block">
         {{ template "_internal/disqus.html" . }}
     </article>
     {{ end }}
