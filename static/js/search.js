@@ -1,7 +1,6 @@
 var sidebars = document.getElementById("sidebars");
 var searchResults = document.getElementById("search-results");
 var searchInput = document.getElementById("search-query");
-
 // the length of the excerpts
 var contextDive = 40;
 
