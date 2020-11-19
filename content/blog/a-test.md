@@ -16,4 +16,4 @@ tes test test
 
 > quoate by someone
 
-{{< book-info title="Atomic Habits" author="James Clear" linkUS="https://www.amazon.co.uk/Atomic-Habits-Proven-Build-Break/dp/1847941834">}}
+{{< book-info title="Atomic Habits" author="James Clear" linkUS="https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/1847941834/">}}
