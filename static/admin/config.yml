@@ -8,7 +8,7 @@ collections:
     label: 'Blog'
     folder: 'content/blog'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
     editor:
       preview: false
     fields:
@@ -16,3 +16,21 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Tags', name: 'tags', widget: 'list'}
+      - { label: 'Images', name: 'images', widget: "image"}
+  - name: 'books'
+    label: 'Books'
+    folder: 'content/books'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Tags', name: 'tags', widget: 'list'}
+      - { label: 'Images', name: 'images', widget: "image"}
+      - { label: 'Book Notes', name: 'book-notes', widget: 'boolean'}
+      - { label: 'Book Rating', name: 'bookrating', widget: 'string'}
