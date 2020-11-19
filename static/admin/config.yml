@@ -15,7 +15,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Draft', name: 'draft', widget: 'boolean'}
+      - { label: 'Draft', name: 'draft', widget: 'boolean', default: true, required: false}
       - { label: 'Tags', name: 'tags', widget: 'list', required: false}
       - { label: 'Images', name: 'images', widget: "list", summary: '{{fields.image}}', field: {label: Image, name: image, widget: image}, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }      
@@ -30,9 +30,9 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Draft', name: 'draft', widget: 'boolean'}
+      - { label: 'Draft', name: 'draft', widget: 'boolean', default: true, required: false}
       - { label: 'Tags', name: 'tags', widget: 'list', required: false}
-      - { label: 'Images', name: 'images', widget: "image", required: false}
+      - { label: 'Images', name: 'images', widget: "list", summary: '{{fields.image}}', field: {label: Image, name: image, widget: image}, required: false}
       - { label: 'Book Notes', name: 'book-notes', widget: 'boolean', required: false}
       - { label: 'Book Rating', name: 'bookrating', widget: 'string', required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }      
