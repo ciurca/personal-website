@@ -1,10 +1,12 @@
 ---
-title: "Willpower is for suckers"
+title: Willpower is for suckers
 date: 2020-07-04
-description: "Making it easy for yourself to get things done."
-tags: ['productivity']
-images: ["/img/willpower/willpower.jpeg"]
+description: Making it easy for yourself to get things done.
 draft: false
+tags:
+  - productivity
+images:
+  - /img/willpower/willpower.jpeg
 ---
 {{< rawhtml >}}<br> <small> <a href="http://www.dumpaday.com/" target="_blank">Image source</a></small> {{< /rawhtml >}}
 
@@ -47,3 +49,5 @@ Now I'm not going to tell you how to develop your system, at least not in this a
 
 
 {{< book-info title="Atomic Habits" author="James Clear" linkUS="https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/">}}
+
+{{< rawhtml >}} <script async data-uid="3edf7936dd" src="https://colossal-author-2815.ck.page/3edf7936dd/index.js"></script> {{< /rawhtml >}}
