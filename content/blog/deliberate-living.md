@@ -8,9 +8,9 @@ In *So Good They Can't Ignore You*, Cal Newport talks about the importance of de
 
 A lot of specific concepts such as deliberate practice can be applied in different parts of life. Instead of deliberate practice that's specific to productivity, we can think about **deliberate living** that can be applied to life as a whole.
 
-I often times catch myself doing the same things socially because it's comfortable in the moment, even though it can hurt my relationships with others in the long-term. Admitting that things are rough requires a lot more strain than just saying that you're *fine*.
+I often catch myself doing the same things socially because it's comfortable in the moment, even though it can hurt my relationships with others in the long-term. Admitting that things are rough requires a lot more strain than just saying that you're *fine*.
 
-Just like in our work, we can do the same mistakes repeatedly if we're not actively trying to improve. The same thing occurs in our day to day lives. We have the same habits that we picked up years ago, some even when we were children, but we're being mindful about them. It's more comfortable this way.
+Just like in our work, we can make the same mistakes repeatedly if we're not actively trying to improve. The same thing occurs in our day to day lives. We have the same habits that we picked up years ago, some even when we were children, but we're being mindful about them. It's more comfortable this way.
 
 *[Life is short](http://paulgraham.com/vb.html)*, as Paul Graham states in his essay. We don't have much time, so we must not spend it on *bullshit* activities. This is why deliberate living is so important.
 
@@ -21,10 +21,3 @@ We only get one life, and it's a rather absurd one. *In the great expanse of tim
 Deliberate living brings anxiety with it. It's going to be uncomfortable in the moment, but it's ultimately the best way to act and think about life long-term. I wouldn't want to have regrets on my deathbed.
 
 So go ahead, live as you intend. **Live deliberately**. When you catch yourself feeling comfortable in a situation, do something that makes you anxious and excited, something that allows life growth.
-
-
-
-
-
-
-
