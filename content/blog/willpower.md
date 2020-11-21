@@ -3,7 +3,6 @@ title: Willpower is for suckers
 date: 2020-07-04
 description: Making it easy for yourself to get things done.
 draft: false
-slug: will
 tags:
   - productivity
 images:
