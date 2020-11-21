@@ -34,7 +34,7 @@
 
   {{ partial "favicon" . }}
 
-  <link href="{{ "/css/font.css" | relURL }}" rel="preload" rel="stylesheet" as="style" type="text/css">
+  <link rel="preload" href="{{ "/css/font.css" | relURL }}" as="style" onload="this.rel='stylesheet'"">
   <link href="{{ "/css/kube.min.css" | relURL }}" rel="stylesheet" type="text/css">
   <link href="{{ "/css/kube.legenda.css" | relURL }}" rel="stylesheet" type="text/css">
   <link href="{{ "/css/highlight.css" | relURL }}" rel="stylesheet" type="text/css">
