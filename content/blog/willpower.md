@@ -1,6 +1,6 @@
 ---
 title: Willpower is for suckers
-slug: will
+slug: willpower
 date: 2020-07-04
 description: Making it easy for yourself to get things done.
 draft: false
