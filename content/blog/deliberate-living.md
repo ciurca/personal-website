@@ -1,5 +1,6 @@
 ---
 title: Deliberate living
+slug: living
 date: 2020-11-20T17:13:53.708Z
 description: Stop procrastinating on life.
 draft: true
