@@ -7,7 +7,7 @@ draft: false
 tags:
   - life
 images:
-  - /img/syed-ahmad-yxtr6xejdv8-unsplash.jpg
+  - /img/shashank-sahay-rjxbwzu9oyk-unsplash.jpg
 ---
 In *So Good They Can't Ignore You*, Cal Newport talks about the importance of deliberate practice in developing your skills. This isn't a new idea, especially in the productivity sphere, we know that you have to be mindful about your work in order to get the results you desire. Deliberate practice will result in a lot of strain, that's why a lot of people don't work this way. It's uncomfortable.
 
