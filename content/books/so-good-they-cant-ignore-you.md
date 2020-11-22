@@ -82,3 +82,13 @@ Pair this idea with his *personal value* vs *market value* theory. Pursue what h
 If you want to make a switch in your career, make it only when you validated your idea. The law of financial viability is a good heuristic.
 
 2. **So good they won't let you go**. Once you've acquired the career capital you need to get more control, people don't want you to get that control, because you've become too valuable to them.
+
+### RULE 4: Think Small, Act Big
+
+We seek meaning not only in life, but also in work. If you find a mission in your career, it will literally drive you. You want to be able to wake up Monday morning excited to go to work, because you're doing something remarkable in your field.
+
+Finding mission is though. And seeking it in the beginning of your career is a mistake people often make. Just like control, you need career capital to acquire your mission.
+
+You first need to get to the cutting edge of your field, that's where missions become visible. Getting to the cutting edge requires lots of experiences that give you a general understanding of your field.
+
+**Don't make the mistake of trying to find a mission before getting to the cutting edge.**
