@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 bookrating: 10/10
 math: true
 title: So Good They Can't Ignore You
