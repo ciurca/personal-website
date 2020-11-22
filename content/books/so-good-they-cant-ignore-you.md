@@ -47,4 +47,4 @@ These traits have a *[multiplying by zero effect](https://fs.blog/2016/08/multip
 
 Apply this formula: (use 1 if you've got the characteristic, 0 if you don't)
 
-$$\autonomy\*competence\*relatedness
+![Formula](/img/codecogseqn.svg)
