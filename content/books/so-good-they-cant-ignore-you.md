@@ -7,9 +7,10 @@ draft: false
 tags:
   - book-notes
 images:
-  - /img/reflect_fc170c06-64e3-455e-860f-2554830312dc.png
+  - https://images-na.ssl-images-amazon.com/images/I/51IjORMFLkL._SX329_BO1,204,203,200_.jpg
 book-notes: true
 bookrating: 10/10
+math: true
 ---
 {{< book-info title="So Good They Can't Ignore You" author="Cal Newport" linkUS="https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/" bookrating1="10/10" >}
 
