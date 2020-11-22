@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 bookrating: 10/10
 math: true
-title: So Good They Can't Ignore You
+title: So Good They Can't Ignore You by Cal New Port
 slug: sogood
 date: 2020-11-22T05:56:58.015Z
 description: Don't know what to do in your career? This is the book to read.
