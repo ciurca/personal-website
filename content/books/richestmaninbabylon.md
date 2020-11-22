@@ -1,12 +1,14 @@
 ---
-title: "The Richest Man in Babylon"
+title: The Richest Man in Babylon
 date: 2020-06-14
-description: "Thousands of years old teachings about money, still relevant today."
+description: Thousands of years old teachings about money, still relevant today.
 draft: false
+tags:
+  - book-notes
+images:
+  - https://images-na.ssl-images-amazon.com/images/I/51V0RSL8A5L._SX331_BO1,204,203,200_.jpg
 book-notes: true
-bookrating: "5/5"
-tags: ['book-notes']
-images: ["https://images-na.ssl-images-amazon.com/images/I/51V0RSL8A5L._SX331_BO1,204,203,200_.jpg"]
+bookrating: 9/10
 ---
 
 {{< book-info title="The Richest Man in Babylon" author="George S Clason" linkUS="https://www.amazon.com/Richest-Man-Babylon-Magic-Story/dp/1939438632/" bookrating1="5/5" >}}
