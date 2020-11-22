@@ -37,14 +37,22 @@ This book is structured in 4 main rules:
 
 In the beginning of your career, work won't be that great. Your tasks will probably pretty boring, you don't have a say in how your day is structured and the pay will not match the CEO's salary. But that's all right.
 
-When your starting out, you have little to none career capital built up. You first have to prove yourself before trying to acquire more control over the projects you're working on and when you get in the office. Maybe you'll feel that this field isn't for you and that you made a poor decision. That's mainly because you don't have the traits that define great work such as:
+When your starting out, you have little to none career capital built up. You first have to prove yourself before trying to acquire more control over the projects you're working on and how your schedule looks. Maybe you'll feel that your job isn't for you and that you made a poor decision. That's mainly because you don't have the traits that define great work such as:
 
-1. Autonomy: control over the projects your working on and how your day is structured;
-2. Competence: being very good at what you do;
+1. Autonomy: the feeling of control over the projects your working on and how your day is structured;
+2. Competence: the feeling of being very good at what you do;
 3. Relatedness: feeling connected to the people you're working with;
 
 These traits have a *[multiplying by zero effect](https://fs.blog/2016/08/multiplicative-systems/).* You can feel that you're very good at what you're doing and love the people you're working with, but if you don't really have a say in the projects you're working on, it's not going to fulfill you.
 
-Apply this formula: (use 1 if you've got the characteristic, 0 if you don't)
+### RULE #2: Be So Good They Can't Ignore You
 
-![Formula](/img/codecogseqn.svg)
+In order to have a fulfilling career, you need to be *so good they can't ignore you*. This takes time, but in the long-term you can be sure it's going to be worth it.
+
+How are you going to do this? By adopting the *craftsman mindset*. Treat what you do like a craft that needs to be constantly refined. There's always something new to learn and you also need to deliberately practice it.
+
+The Five Habits Of A Craftsman:
+
+1. **Figure out the career capital market type**. There are two main career capital markets: winner-take-all and auction. In a winner-take-all market, there's only one skill that matters, like in writing, the only thing that matters is how good your writing is. You need to focus all your time on that skill. In a auction market, there are multiple skills that are needed, like in business, you need to know sales, management, etc., but also niche knowledge about the field your business is in.
+2. **Figure out the career capital type**. What kind of capital do you need to acquire? If you're a singer, your capital would probably consist in singing. If you're a programmer, you're career capital probably consists in how good your programs are, but also knowledge about the field you're in.
+3. 
