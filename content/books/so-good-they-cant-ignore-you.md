@@ -92,3 +92,7 @@ Finding mission is though. And seeking it in the beginning of your career is a m
 You first need to get to the cutting edge of your field, that's where missions become visible. Getting to the cutting edge requires lots of experiences that give you a general understanding of your field.
 
 **Don't make the mistake of trying to find a mission before getting to the cutting edge.**
+
+You also need to have the mindset of a marketer. You need to market your mission, so it becomes not only interesting to you, but also to others. Your mission needs to be word of mouth worthy, so people tell their friends and their dog about it. You also need to launch it in a place where it can be seen. 
+
+For example, if I would launch a product, I would market it in a way so people can get excited about it and I would launch it in a place where lots of people get to learn about new products, such as [Product Hunt](https://producthunt.com).
