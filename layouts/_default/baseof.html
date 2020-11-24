@@ -49,8 +49,6 @@
   </script>
     <script src="https://kit.fontawesome.com/05598ca681.js" crossorigin="anonymous"></script>
   <script defer type="text/javascript" src="{{ "/js/tocbot.min.js" | relURL }}"></script>
-    <link rel="stylesheet" href="https://unpkg.com/applause-button/dist/applause-button.css" />
-  <script src="https://unpkg.com/applause-button/dist/applause-button.js"></script>
 </head>
 
 
@@ -67,25 +65,4 @@
   <script defer src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"></script>
 </body>
     <script defer src="/js/search.js"></script>
-    <script type="text/javascript">
-    fetch('https://rkqvakocg4.execute-api.us-east-1.amazonaws.com/dev/get-cost-attribution')
-      .then(function (response) {
-        return response.json();
-      })
-      .then(function (consumers) {
-        document.getElementById("attribution-table").innerHTML =
-          consumers.reduce((prev, curr) =>
-            prev + "<tr><td>" + curr.consumer + "</td><td>$" + (curr.cost * 30).toFixed(2) + "</td></tr>", "");
-      });      
-
-    const button = document.getElementById("applause");
-
-    button.initialClapCount.then(function (count) {
-      console.log("initial clap count", count);
-    });
-
-    button.addEventListener("clapped", function (event) {
-      console.log("button clapped", event.detail);
-    });     
-  </script>
 </html>
