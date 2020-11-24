@@ -1,4 +1,7 @@
-{{ define "title"}} {{end}}
+{{ define "title"}}
+{{ if eq .Section "books" }}{{ .Title }}: Notes and Summaries \ Radu Ciurca{{end}}
+{{ if eq .Section "blog" }}All Articles by Radu Ciurca {{end}}
+{{end}}
 {{ define "header"}} {{ partial "header" .}} {{end}}
 
 {{ define "main" }}
