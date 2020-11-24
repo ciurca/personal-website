@@ -1,6 +1,5 @@
 {{ define "title"}} {{ .Title}} \ Radu Ciurca {{end}}
 {{ define "header"}} {{ partial "header" .}} {{end}}
-
 {{ define "main"}}
 <div class="push-center" itemscope itemtype="http://schema.org/BlogPosting">
     {{ template "_internal/schema.html" . }}
@@ -25,6 +24,10 @@
     <div class="">
         {{ partial "post/byauthor" . }}
         {{ partial "post/related-content" . }}
+        <div>
+          <applause-button style="width: 58px; height: 58px; color: #3794de"/>
+          </div>
+          <br>
 		{{ partial "sharebuttons.html" . }}
     </div>
     {{ if .Site.DisqusShortname }}
