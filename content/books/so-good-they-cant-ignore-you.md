@@ -1,6 +1,6 @@
 ---
 draft: false
-bookrating: 10/10
+bookrating: 10
 math: true
 title: So Good They Can't Ignore You by Cal New Port
 slug: sogood

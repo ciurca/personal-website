@@ -28,13 +28,17 @@
 		<h1>{{ .Title }}</h1>
 		{{ if eq .Section "blog" }}<p>My thoughts and ideas. Ocasionally some good stuff.</p>{{ end }}
 		{{ if eq .Section "technica" }}<p>Tutorials about techincal stuff.</p>{{ end }}
-		{{ if eq .Section "books" }}<p>My book notes.</p>{{ end }}
-    <a href="https://twitter.com/{{.Site.Params.twitter}}" target="_blank" id="pLike">Follow me on Twitter</a>
+		{{ if eq .Section "books" }}<p>Here you'll find my book notes. I write these to remember what I read. If you have a book recommandation <a href="mailto:radu@ciur.ca">email me</a>.</p>{{ end }}
+    <a href="https://ck.raduciurca.com/mail" target="_blank" id="pLike">My Newsletter</a>
 </div>
 <ul id="posts">
-
+ {{ if eq .Section "books" }}  
+ {{ range (.Data.Pages.ByParam "bookrating").Reverse }} {{ partial "page-summary" . }} {{ end }}
+  <section>{{ partial "pagination" .}}</section> 
+  {{else}}
  {{ range .Paginator.Pages.ByDate.Reverse }} {{ partial "page-summary" . }} {{ end }}
   <section>{{ partial "pagination" .}}</section>
+  {{ end }}
 </ul>
 
 

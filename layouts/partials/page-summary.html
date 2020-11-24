@@ -3,7 +3,7 @@
         <h2>
             {{ .Title }}
 			{{ if (isset .Params "bookrating") }}
-			<span style="color: black">- {{ .Params.bookrating }} </span>
+			<span style="color: black">- {{ .Params.bookrating }}/10 </span>
 			{{ end }}
         </h2>
         {{ if (isset .Params "description") }}

@@ -8,7 +8,7 @@ tags:
 images:
   - https://images-na.ssl-images-amazon.com/images/I/51V0RSL8A5L._SX331_BO1,204,203,200_.jpg
 book-notes: true
-bookrating: 9/10
+bookrating: 9 
 ---
 
 {{< book-info title="The Richest Man in Babylon" author="George S Clason" linkUS="https://www.amazon.com/Richest-Man-Babylon-Magic-Story/dp/1939438632/" bookrating1="5/5" >}}
