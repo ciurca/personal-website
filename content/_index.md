@@ -1,6 +1,6 @@
 ---
-description: "Trying to learn something new everyday. This is my home on the internet."
-title: "Radu Ciurca"
+description: "Productivity & Life -- Book Notes & Summaries"
+title: "Radu Ciurca: Blog, Book Notes & Summaries, Newsletter and More"
 draft: false
 tags: ['about']
 images: ['/img/index/default.png']
