@@ -27,7 +27,7 @@ pluralizeListTitles = false
 	weight = -105
 	url = "/books/"
 [[menu.main]]
-    name = "About"
+    name = "Home"
     weight = -130
     url = "/"
 
