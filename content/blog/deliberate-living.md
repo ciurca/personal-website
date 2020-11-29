@@ -9,6 +9,12 @@ tags:
 images:
   - /img/shashank-sahay-rjxbwzu9oyk-unsplash.jpg
 ---
+<!--StartFragment-->
+
+Photo by [Shashank Sahay](https://unsplash.com/@shashanksahay?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/monkey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+<!--EndFragment-->
+
 In *So Good They Can't Ignore You*, Cal Newport talks about the importance of deliberate practice in developing your skills. This isn't a new idea, especially in the productivity sphere, we know that you have to be mindful about your work in order to get the results you desire. Deliberate practice will result in a lot of strain, that's why a lot of people don't work this way. It's uncomfortable.
 
 A lot of specific concepts such as deliberate practice can be applied in different parts of life. Instead of deliberate practice that's specific to productivity, we can think about **deliberate living** that can be applied to life as a whole.
