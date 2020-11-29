@@ -18,7 +18,7 @@ Photo by [Sophie Dale](https://unsplash.com/@allthestars?utm_source=unsplash&utm
 
 I've found two extremes that I fall into when I compare myself to someone else. Both of them can have a negative effect.
 
-First one is a negative comparison. This happens when I compare  myself to someone who's got better results than me. It doesn't matter that they have years under their belt compared to my months, it still affects me. The fact that we're all unique and we progress in different ways is ignored.
+First one is a **negative comparison**. This happens when I compare  myself to someone who's got better results than me. It doesn't matter that they have years under their belt compared to my months, it still affects me. The fact that we're all unique and we progress in different ways is ignored.
 
 Negative comparison:
 
@@ -26,7 +26,7 @@ Negative comparison:
 * demoralizes you;
 * can lead to quitting, even though your progress is solid;
 
-The second extreme is positive comparison (it doesn't have a positive effect). This happens when you think you're way better than your peers. Your ego inflates and you end up stagnating because you're so good you don't need to practice anymore. It also makes you think less of your peers although they might be as good or even better than you.
+The second extreme is **positive comparison** (it doesn't have a positive effect). This happens when you think you're way better than your peers. Your ego inflates and you end up stagnating because you're *so good* you don't need to practice anymore. It also makes you think less of your peers although they might be as good or even better than you.
 
 Positive comparison:
 
