@@ -4,7 +4,7 @@ slug: compare
 date: 2020-11-29T17:28:48.813Z
 description: I've found two extremes that I fall into when I compare myself to
   someone else. Both of them can have a negative effect.
-draft: true
+draft: false
 tags:
   - life
 images:
