@@ -3,9 +3,10 @@ title: Atomic Habits by James Clear
 slug: atomichabits
 date: 2020-12-06T16:46:34.685Z
 description: Learn how to actually build habits that stick.
-draft: true
+draft: false
 tags:
   - habits
+  - notes
 images:
   - /img/51-nxssrfzl.jpg
 book-notes: true
@@ -125,4 +126,26 @@ Make one time purchases / actions that lock in good habits.
 | Eat healthy food                | Sign up to a meal prep service           |
 | Be more secure online           | Use a password manager                   |
 | Spend less time on social media | Delete social media apps from your phone |
-| Exercise more often             | Go to a nice gym                         |
+| Exercise more often             | Join a nice gym                          |
+
+### 4. Make it Satisfying
+
+> The Cardinal Rule of Behavior change: *What is rewarded is repeated. What is punished is avoided*.
+
+Our brains are that of hunter-gatherers that got immediate rewards for their actions. A behavior that didn't reward them immediately was excluded.
+
+Us, modern humans, on the other hand, live in what scientists calls a **delayed-return environment**.
+
+We work for a whole month before receiving the paycheck. We have to spend months in the gym before we see any gains.
+
+You have to trick your brain into enjoying modern delayed reward activities by giving it a treat after performing the desired habit.
+
+Make sure the treat doesn't go against your desired habit. You shouldn't reward going to the gym in order to lose weight with eating cake.
+
+In the 5 minute break after a Pomodoro study session, I like to listen to a song, this way I'm rewarding myself for studying. Find what works for you.
+
+Track your progress, the more visual, the better. (see [Don't Break The Chain](https://lifehacker.com/jerry-seinfelds-productivity-secret-281626))
+
+Make it unsatisfying to miss a day. An accountability partner or putting something on the line can help. Thomas Frank wants to [get up early](https://collegeinfogeek.com/early-waking-with-buffer/), in order to do so he has a Tweet scheduled that says:
+
+![Source: https://collegeinfogeek.com/early-waking-with-buffer/](https://collegeinfogeek.com/wp-content/uploads/2014/07/buffer-650x146.jpg "Thomas Frank: Wake up or PayPal someone $5")
