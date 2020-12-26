@@ -10,7 +10,7 @@ tags:
 images:
   - /img/51-nxssrfzl.jpg
 book-notes: true
-bookrating: 10/10
+bookrating: "10"
 ---
 {{< book-info title="Atomic Habits" author="James Clear" linkUS="https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W/" bookrating1="10/10" >}}
 
