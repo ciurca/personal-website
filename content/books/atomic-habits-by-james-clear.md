@@ -29,7 +29,7 @@ Each habit has 4 stages:
 1 & 2 = Problem phase (you see something and you want the reward)
 3 & 4 = Solution phase (you do something and get the reward, or at least try)
 
-To build good habits use these 4 rules based on the stages:
+To build good habits use these 4 rules:
 
 1. Make it Obvious (cue)
 2. Make it Attractive (craving)
@@ -50,7 +50,7 @@ Habits are like an onion, they have multiple layers:
 2. Process based - middle layer
 3. Outcome based (goals) - outer layer
 
-Be a programmer, don't have the goal of learning to code. Think like the person you want to become. Would a programmer spend 20 minutes everyday performing a boring task, or would he try to automate it?
+Be a programmer, don't have the goal of learning to code. Think and act like the person you want to become. Would a programmer spend 20 minutes everyday performing a boring task, or would he try to automate it?
 
 ### 1. Make it Obvious
 
@@ -88,7 +88,7 @@ I paired the desired cup of coffee in the morning with the habit of reading.
 
 #### Join a community
 
-James gives the example of the [Polgar sisters](https://productiveclub.com/polgar-sisters-story/).
+James gives the example of the [](https://productiveclub.com/polgar-sisters-story/)[Polgár sisters](https://productiveclub.com/polgar-sisters-story/).
 
 If you want to make a habit attractive, surround yourself with people that have/want the same habit.
 
@@ -97,11 +97,12 @@ If everybody around you is a programmer, chances are you'll feel the desire to c
 If everybody around you smokes, you'll feel inclined to have a cigarette.
 
 > We imitate the habits of three groups in particular:
+>
 > 1. The close.
 > 2. The many.
 > 3. The powerful.
 
----
+- - -
 
 **Your habits are modern day solutions to ancient desires**. If people 300 years ago could live without fast food & TV, you probably can too.
 
@@ -109,4 +110,19 @@ If everybody around you smokes, you'll feel inclined to have a cigarette.
 
 Remove as much friction as possible between you and your habit.
 
-Netflix removes the friction between you and your film. They make it dead easy to watch something, anything, anywhere.
+Netflix removes the friction between you and your film. They make it dead easy to watch anything, anywhere.
+
+Use the **Two-Minute Rule**: Make sure you can get into your desired habit ASAP. If it takes 20 minutes to get to the gym, you're not gonna stick with working out. The workout that takes 2 minutes or less to start is the one that's gonna stick.
+
+Automate good behaviors as much as possible.
+
+> When you automate as much of your life as possible, you can spend your effort on the tasks machines cannot do yet.
+
+Make one time purchases / actions that lock in good habits.
+
+| **Habit**                       | **Automation**                           |
+| ------------------------------- | ---------------------------------------- |
+| Eat healthy food                | Sign up to a meal prep service           |
+| Be more secure online           | Use a password manager                   |
+| Spend less time on social media | Delete social media apps from your phone |
+| Exercise more often             | Go to a nice gym                         |
