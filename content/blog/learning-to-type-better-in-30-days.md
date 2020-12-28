@@ -2,8 +2,8 @@
 title: Learning to type better in 30 days
 slug: typing
 date: 2020-12-28T11:30:46.828Z
-description: How I increased my typing speed and changed my style of typing for the better
-draft: true
+description: How I increased my typing speed and learned proper typing
+draft: false
 ---
 I started this 30 day challenge in order to improve my typing speed. What I didn't consider was that you first had to actually know how to type properly before being fast.
 
