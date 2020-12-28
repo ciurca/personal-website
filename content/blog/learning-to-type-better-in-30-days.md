@@ -48,6 +48,13 @@ This challenge has helped my typing a lot, and I'm sure the long-term benefits o
 
 1. Set a time and place for your everyday practice;
 2. Do something that you enjoy while doing the practice; 
+
    1. I listened to music whilst typing, you can drink a tea or catch up with your favorite podcast, just make it enjoyable!
 3. Reward yourself for practicing; (I checked social media after my 30 minutes were up)
 4. Your typing session should involve typing and nothing else! No checking email, the phone or doing something else, just focus on typing for that amount of time;
+
+All the resources I talked about in this article:
+
+* The site I used to learn to touch-type: [KEYBR.com](https://www.keybr.com/)
+* The sites I used to get faster: [10FastFingers.com](https://10fastfingers.com/) and [TypeRacer.com](https://typeracer.com/)
+* The graphic I used to know how to position my finger: [from Computerhope.com](https://www.computerhope.com/issues/pictures/fingers.jpg)
