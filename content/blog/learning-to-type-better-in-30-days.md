@@ -4,7 +4,11 @@ slug: typing
 date: 2020-12-28T11:30:46.828Z
 description: How I increased my typing speed and learned proper typing
 draft: false
+images:
+  - /img/typing.jpg
 ---
+Photo by [Courtney Corlew](https://unsplash.com/@courtneycorlew?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/typing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 I started this 30 day challenge in order to improve my typing speed. What I didn't consider was that you first had to actually know how to type properly before being fast.
 
 What do I mean by typing properly? Well using all your fingers and using them for the appropriate keys. Before this experiment, I used around 4 of my fingers most of the time, and I also used them randomly. Now, don't get me wrong, I had a pretty good speed, I could write around 65-70 word per minute, and I didn't need to look at the keyboard all the time. But I wanted to **type properly**.
