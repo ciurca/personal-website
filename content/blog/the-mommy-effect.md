@@ -3,7 +3,7 @@ title: The Mommy Effect
 slug: mommyeffect
 date: 2021-04-07T13:10:22.236Z
 description: Get honest feedback on your ideas from people close to you.
-draft: true
+draft: false
 tags:
   - Thinking
   - Tactics
