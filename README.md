@@ -7,3 +7,4 @@ To dos:
 - [x] fix mobile nav bar/header
 - [ ] add website masters (google, yahoo etc)
 - [ ] add metadate for section pages
+- [ ] remove share
