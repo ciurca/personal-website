@@ -1,14 +1,12 @@
 ---
 title: Quotes
-date: 2020-03-10
+date: 2021-08-20T15:03:09.025Z
 description: My favorite quotes. I update this list constantly.
 draft: false
 images:
   - /img/quotes/quotes.png
 ---
-This is a list of quotes (and some notes) that I'm constantly updating, taken from different things that I’ve read, listened or watched. I believe that a quote gives you an insight into **how and what that particular person thinks**.
-
-If a quote doesn’t necessarily have an author or if it’s a common saying I’ll put **VA** besides it (Various Authors). If you see a quote that you know for a fact has a certain author, you can let me know on Twitter @raduciurca.
+This is a list of quotes that I don't update as regurarly as I should. Also, this is a very bad way of storing quotes. Maybe I'll create a database of quotes in the future.
 
 Some of these are also notes in the form of quotes, you'll be able to distinguish them.
 
