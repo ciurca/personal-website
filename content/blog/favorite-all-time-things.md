@@ -29,7 +29,7 @@ More to be added
 * [Oliver Heldens - Essential Mix BBC Radio 1](https://youtu.be/E8RR27ZN7IU)
 * [Folamour - Boiler Room](https://youtu.be/wL-VMOGAhzE)
 
-## [](https://youtu.be/E8RR27ZN7IU)Movies & More
+## Movies & More
 
 ### Movies
 
@@ -59,7 +59,7 @@ More to be added
 * [How to Get Rich (without getting lucky) - Naval Ravikant](https://youtu.be/1-TZqOsVCNM)
 * [Balaji Srinivasan on Tim Ferriss](https://youtu.be/eim8REOYLzA)
 
-## [](https://youtu.be/eim8REOYLzA)[](https://youtu.be/1-TZqOsVCNM)[](https://youtu.be/D73mm29XXAw)Videos
+## Videos
 
 ### Short
 
@@ -69,7 +69,7 @@ More to be added
 * [One day, a computer will fit on a desk (1974)](https://youtu.be/sTdWQAKzESA)
 * [THE COLOR GAME](https://youtu.be/tXZau5VIIvU)
 
-### [](https://youtu.be/tXZau5VIIvU)[](https://youtu.be/sTdWQAKzESA)Long
+### Long
 
 * [300 Days alone...](https://youtu.be/leHb2hdCLqo)
 
