@@ -47,14 +47,14 @@ More to be added
 * The Office
 * Nathan For You
 * Curb Your Enthusiasm
-* Sillicon Valley
+* Silicon Valley
 
 ## Talks
 
 * [Prof Deepak Malhotra - Speech to Graduating Harvard MBA Students](https://youtu.be/D73mm29XXAw)
 * [Nassim Taleb - Commencement Speech at American University of Beirut](https://youtu.be/Fzmr3urk28I)
 
-## [](https://youtu.be/Fzmr3urk28I)Podcasts
+## Podcasts
 
 * [How to Get Rich (without getting lucky) - Naval Ravikant](https://youtu.be/1-TZqOsVCNM)
 * [Balaji Srinivasan on Tim Ferriss](https://youtu.be/eim8REOYLzA)
@@ -68,6 +68,7 @@ More to be added
 * [You Can Learn Anything](https://youtu.be/beSsSAUf-oc)
 * [One day, a computer will fit on a desk (1974)](https://youtu.be/sTdWQAKzESA)
 * [THE COLOR GAME](https://youtu.be/tXZau5VIIvU)
+* [Still Face Experiment](https://youtu.be/apzXGEbZht0)
 
 ### Long
 
@@ -75,4 +76,4 @@ More to be added
 
 ### Learning materials
 
-* [Learn Python - Full Course for Beginners](https://youtu.be/rfscVS0vtbw): this video helped me learn the basics of python. If you already know some code, the best way to get better is through a project of some sorts in my opinion. I have to mention though, that I do think that reevaluating periodically should be a priority, since there are some things you are missing on when learning through projects.
+* [Learn Python - Full Course for Beginners](https://youtu.be/rfscVS0vtbw): This video helped me learn the basics of python. If you already know some code, the best way to get better is through a project of some sort in my opinion. I have to mention though, that I do think that reevaluating periodically should be a priority since there are some things you are missing on when learning through projects.
