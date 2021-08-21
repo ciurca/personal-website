@@ -65,6 +65,7 @@ More to be added
 
 * [George Hotz, “The only way to learn programming“](https://youtu.be/t32BNi3NEYA)
 * [There Are No Miracle People](https://youtu.be/IIDLcaQVMqw)
+* [Steve Jobs Secrets of Life](https://youtu.be/kYfNvmF0Bqw) 
 * [You Can Learn Anything](https://youtu.be/beSsSAUf-oc)
 * [One day, a computer will fit on a desk (1974)](https://youtu.be/sTdWQAKzESA)
 * [THE COLOR GAME](https://youtu.be/tXZau5VIIvU)
